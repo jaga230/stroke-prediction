@@ -59,17 +59,17 @@ stroke-prediction-system/
         ├── App.js           
         └── components/
             └── PredictionForm.js
-📸 *Dashboard Preview*
+📸 Dashboard Preview
 <img width="1482" height="906" alt="Screenshot 2026-10-11 173313" src="https://github.com/user-attachments/assets/ba6994bc-b690-44e9-81a0-a3f748d70223" />
 
 
-🔍 *Exploratory Data Analysis (EDA) & Modeling*
+🔍 Exploratory Data Analysis (EDA) & Modeling
 >Handling imbalanced medical data using SMOTE (Synthetic Minority Over-sampling Technique).
 >Feature scaling continuous variables (BMI, Glucose).
 >Training an ensemble Random Forest Classifier to capture non-linear biometric relationships.
 >Evaluating model precision and recall to minimize false negatives.
 
-📈 *Dashboard Features*
+📈 Dashboard Features
 >Clinical Tools
 >Single-Patient Risk Assessment Form
 >Bulk CSV Batch Screening
