@@ -28,8 +28,6 @@ The model predicts whether a patient is at high or low risk for a stroke based o
 * Implement background MLOps for automated retraining
 * Deploy production build using Zoho Catalyst
 
-## Authors
+## Author
 * Dalavai Vijay Jagan
-* Chethan MN 
-* Chethan K 
-* Mahesh M
+
