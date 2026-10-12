@@ -63,3 +63,81 @@ stroke_prediction_cdss/
     │   ├── App.js
     │   └── components/
     └── package.json
+---
+📸 Dashboard Preview
+<img width="1482" height="906" alt="Screenshot 2026-10-11 173313" src="https://github.com/user-attachments/assets/eb08ad49-548e-4929-8f2d-538c29350385" />
+🔍 Exploratory Data Analysis (EDA) & Modeling
+Handling imbalanced medical data using SMOTE (Synthetic Minority Over-sampling Technique).
+
+Feature scaling continuous variables (BMI, Glucose).
+
+Training an ensemble Random Forest Classifier to capture non-linear biometric relationships.
+
+Evaluating model precision and recall to minimize false negatives.
+
+📈 Dashboard Features
+Clinical Tools
+
+Single-Patient Risk Assessment Form
+
+Bulk CSV Batch Screening
+
+PDF Medical Report Generation
+
+Visuals & Analytics
+
+AI Confidence Score gauges
+
+High-Risk Patient Data Tables
+
+Longitudinal Recharts tracking metrics over multiple visits
+
+📉 Key Insights
+🔴 Higher age and elevated average glucose levels are strongly associated with increased stroke risk.
+
+⚖️ Addressing class imbalance with SMOTE significantly improved the model's ability to detect true positive stroke cases.
+
+👨‍⚕️ Clinical override rules (e.g., automatically flagging extreme glucose levels regardless of ML probability) ensure patient safety.
+
+🎯 Business & Clinical Impact
+✔️ Identify high-risk patients instantly ✔️ Support public health decision-making ✔️ Enable automated emergency triage alerts ✔️ Improve hospital administrative workflows
+
+🚀 How to Run
+1. Install Backend Dependencies
+Bash
+cd backend
+pip install flask flask-cors pandas scikit-learn
+2. Run the Flask API Server
+Bash
+python app.py
+3. Install & Run the Frontend
+Bash
+cd frontend
+npm install
+npm start
+📌 Skills Demonstrated
+Machine Learning Classification
+
+Imbalanced Data Handling
+
+RESTful API Development
+
+Full-Stack Web Integration
+
+State Management (React)
+
+Data Storytelling
+
+🏆 Project Highlights
+End-to-end data science workflow
+
+Multi-tier architecture (Client-Server-Database)
+
+Real-world healthcare problem solving
+
+Insight-driven medical dashboard
+
+Clean and scalable folder structure
+
+👨‍💻 Authors
+Dalavai Vijay Jagan
