@@ -60,10 +60,10 @@ stroke-prediction-system/
         └── components/
             └── PredictionForm.js 
 ```
-
+##
 📸 Dashboard Preview
 <img width="1482" height="906" alt="Screenshot 2026-10-11 173313" src="https://github.com/user-attachments/assets/6c13c6e6-659c-4e78-b2f8-067fbb196334" />
-
+##
 
 🔍 Exploratory Data Analysis (EDA) & Modeling
 ✔️Handling imbalanced medical data using SMOTE (Synthetic Minority Over-sampling Technique).
