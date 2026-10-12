@@ -64,13 +64,14 @@ stroke-prediction-system/
 📸 Dashboard Preview
 <img width="1482" height="906" alt="Screenshot 2026-10-11 173313" src="https://github.com/user-attachments/assets/6c13c6e6-659c-4e78-b2f8-067fbb196334" />
 ##
-
+**
 🔍 Exploratory Data Analysis (EDA) & Modeling
 ✔️Handling imbalanced medical data using SMOTE (Synthetic Minority Over-sampling Technique).
 ✔️Feature scaling continuous variables (BMI, Glucose).
 ✔️Training an ensemble Random Forest Classifier to capture non-linear biometric relationships.
 ✔️Evaluating model precision and recall to minimize false negatives.
-
+**
+##
 📈 Dashboard Features
 ✔️Clinical Tools
 ✔️Single-Patient Risk Assessment Form
@@ -80,18 +81,21 @@ stroke-prediction-system/
 ✔️AI Confidence Score gauges
 ✔️High-Risk Patient Data Tables
 ✔️Longitudinal Recharts tracking metrics over multiple visits
-
+##
+**
 📉 Key Insights
 🔴 Higher age and elevated average glucose levels are strongly associated with increased stroke risk.
 ⚖️ Addressing class imbalance with SMOTE significantly improved the model's ability to detect true positive stroke cases.
 👨‍⚕️ Clinical override rules (e.g., automatically flagging extreme glucose levels regardless of ML probability) ensure patient safety.
-
+**
+##
 🎯 Business & Clinical Impact
 ✔️ Identify high-risk patients instantly 
 ✔️ Support public health decision-making 
 ✔️ Enable automated emergency triage alerts
 ✔️ Improve hospital administrative workflows
-
+##
+```
 🚀 How to Run
 1. Install Backend Dependencies
 Bash
@@ -105,7 +109,8 @@ Bash
 cd frontend
 npm install
 npm start
-
+```
+##
 📌 Skills Demonstrated
 ✔️Machine Learning Classification
 ✔️Imbalanced Data Handling
@@ -113,13 +118,16 @@ npm start
 ✔️Full-Stack Web Integration
 ✔️State Management (React)
 ✔️Data Storytelling
-
+##
+**
 🏆 Project Highlights
 ✔️End-to-end data science workflow
 ✔️Multi-tier architecture (Client-Server-Database)
 ✔️Real-world healthcare problem solving
 ✔️Insight-driven medical dashboard
 ✔️Clean and scalable folder structure
-
+**
+##
 👨‍💻 Authors
 Dalavai Vijay Jagan
+##
